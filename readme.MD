@@ -1,48 +1,31 @@
 <div align="center">
-  <h1>Hi there, I'm Aman Kuril ⚡</h1>
-  <h3>Full Stack Developer | Software Engineer</h3>
-  <p>I build scalable, high-performance web applications with a focus on seamless user experiences, secure backend architectures, and production-ready deployments.</p>
+  <!-- Interactive Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FA0272&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aman+Kuril+⚡;Full+Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+  <p>Engineering high-performance platforms with industrial precision and stunning dark-mode aesthetics.</p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ The Arsenal
 
-*   **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
-*   **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication
-*   **Databases:** MongoDB, PostgreSQL, Redis
-*   **Cloud & DevOps:** Docker, Linux, Nginx, PM2, VPS Deployment, SSL/TLS, Git, GitHub
-*   **Languages & Core Systems:** Java, JavaScript, SQL, Data Structures & Algorithms (200+ LeetCode problems)
-*   **APIs & Integrations:** Razorpay, Google Maps API, Firebase Cloud Messaging (FCM), Socket.io, OpenStreetMap API
-
-### 💼 Professional Experience
-
-*   **Full Stack Developer at AppZeto Technologies Pvt. Ltd.** (March 2026 - Present)
-    *   Contributed to the development and deployment of 10+ live client projects across food delivery, quick commerce, and taxi booking platforms.
-    *   Built responsive interfaces and secure RESTful APIs currently serving 6,000+ active users.
-    *   Managed production deployments on Linux VPS utilizing Nginx, PM2, and SSL/TLS.
-
-### 🚀 Featured Engineering & Projects
-
-*   **Switcheats (Food Delivery Platform):** Engineered a production-grade MERN stack platform serving 6,000+ users, 80+ restaurants, and 50+ delivery partners. Integrated Razorpay, Google Maps API, and Firebase FCM.
-*   **Uber - Ride-Handling Application:** Built a comprehensive ride management app featuring real-time ride status updates via Socket.io and geolocation tracking via OpenStreetMap API.
-*   **The Gray Hat Organization:** A scalable SaaS-ready ed-tech platform built on the MERN stack using React and Vite. Engineered with secure role-based admin panels, automated course management, and seamless integrations for Zoom meetings and Google Drive.
-*   **At-Home Beauty Services Platform:** A comprehensive service platform featuring distinct flows for customers, beauticians, and admins, wrapped in a high-contrast, premium dark UI.
-
-### 🎓 Education & Certifications
-
-*   **B.Tech in Automation and Robotics** - Prestige Institute of Engineering Management and Research, Indore (CGPA: 7.18/10.00)
-*   **Certifications:** MongoDB Node.js Developer Path (MongoDB University) and Oracle Databases for Developers (Oracle Dev Gym)
-
-### 📈 GitHub Analytics
-
+<!-- Clean, Unbreakable Visual Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankuril&show_icons=true&theme=radical&hide_border=true" alt="Aman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankuril&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amankuril&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
+### 🚀 Featured Engineering
+
+*   **Switcheats (Food Delivery Platform):** Production-grade MERN platform serving 6,000+ active users. Integrated with Razorpay, Firebase FCM, and Google Maps API on a Linux VPS.
+*   **The Gray Hat Organization:** Scalable ed-tech platform engineered with React, Vite, JS, and Tailwind. Features role-based access and automated Zoom meeting/Google Drive link distribution.
+*   **At-Home Beauty Services:** Comprehensive booking platform with distinct customer and admin flows, wrapped in a high-contrast, premium dark UI.
+
 ### 🍿 Beyond the IDE
 
 When I am not debugging backend logic or configuring automated AI content pipelines, I am usually analyzing UI/UX design patterns, optimizing my T480s workspace, or catching up on *Death Note*.
