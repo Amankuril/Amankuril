@@ -36,10 +36,13 @@
 
 ### 📈 GitHub Analytics
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankuril&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankuril&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Amankuril&theme=radical&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amankuril&show_icons=true&theme=radical&hide_border=true" alt="Aman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankuril&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amankuril&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ### 🍿 Beyond the IDE
 
 When I am not debugging backend logic or configuring automated AI content pipelines, I am usually analyzing UI/UX design patterns, optimizing my T480s workspace, or catching up on *Death Note*.
