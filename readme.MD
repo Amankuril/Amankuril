@@ -36,9 +36,9 @@
 
 ### 📈 GitHub Analytics
 
-[![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankuril&show_icons=true&theme=radical&hide_border=true)](https://github.com/Amankuril)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankuril&layout=compact&theme=radical&hide_border=true)](https://github.com/Amankuril)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amankuril&theme=radical&hide_border=true)](https://github.com/Amankuril)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankuril&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankuril&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amankuril&theme=radical&hide_border=true)
 
 ### 🍿 Beyond the IDE
 
