@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Interactive Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FA0272&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aman+Kuril+⚡;Full+Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  </a>
+  <!-- Fixed Interactive Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FA0272&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aman+Kuril;Full+Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   <p>Engineering high-performance platforms with industrial precision and stunning dark-mode aesthetics.</p>
 </div>
 
